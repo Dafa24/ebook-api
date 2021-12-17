@@ -1,1 +1,1 @@
-https://github.com/Dafa24/ebook-api.git
+https://github.com/Dafa24/ebook-api
